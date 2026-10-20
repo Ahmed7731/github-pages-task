@@ -23,15 +23,15 @@ This project satisfies the team task requirements by setting up:
 
 | **Ahmed Mansour** | `20240055` |
 
-| *Teammate 2* | `654321` |
+| **Omar Ali** | `20242228` |
 
-| *Teammate 3* | `789012` |
+| **Teammate 3** | `789012` |
 
-| *Teammate 4* | `654321` |
+| **Teammate 4** | `654321` |
 
-| *Teammate 5* | `789012` |
+| **Teammate 5** | `789012` |
 
-| *Teammate 6* | `654321` |
+| **Teammate 6** | `654321` |
 
 
 ---
