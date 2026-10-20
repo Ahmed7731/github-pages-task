@@ -58,5 +58,6 @@ github-pages-task/
 ├── .github/
 │   └── workflows/
 │       └── deploy.yml      # GitHub Actions CI/CD deployment configuration
+├── .gitignore              # Ignores system & temporary files
 ├── index.html              # Main HTML page with team details
 └── README.md               # Project documentation
