@@ -29,9 +29,9 @@ This project satisfies the team task requirements by setting up:
 
 | **Mahmoud Abdelaziz** | `20230603` |
 
-| **Teammate 5** | `789012` |
+| **Mahmoud Sultan** | `20242314` |
 
-| **Teammate 6** | `654321` |
+| **Tarek Samy** | `20242190` |
 
 
 ---
